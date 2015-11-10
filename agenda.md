@@ -54,6 +54,7 @@ Sam Elamin
 
 Logging and Monitoring	
 Joel Hammond-Turner 
+@Rammesses
 
 Unlock that door with Raspberry Pi2, Azure ML and Service Bus	
 Steve Spencer 
